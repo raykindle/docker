@@ -1,0 +1,12 @@
+scikit-image
+pathos
+albumentations
+graphviz
+xtcocotools
+seaborn
+thop
+pandarallel
+plotly
+netron
+timm
+opencv-python-headless<4.3
